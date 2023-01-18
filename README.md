@@ -1,2 +1,2 @@
-# demo
-demo to create a repository 
+# Demo
+Demo to create a repository 
